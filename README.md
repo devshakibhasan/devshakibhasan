@@ -9,7 +9,4 @@ I also enjoy wireframing, ui, ux, and design in general.
 
 
 
-
-
-
-![batman](https://user-images.githubusercontent.com/90518184/139468541-a2bbaf37-9f6d-4f4b-b52b-8768f9a15ba4.gif)
+![asslamo-alikum](https://user-images.githubusercontent.com/90518184/139929922-d2a89289-c336-47b6-978d-91c29cabeb05.gif)
