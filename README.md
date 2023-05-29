@@ -37,8 +37,8 @@ I also enjoy wireframing, ui, ux, and design in general.
 ## Connect with me:
 <p align="left">
 <p align="left">
-<a href="https://www.linkedin.com/in/devshakibhasan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devshakibhasan/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/devshakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devshakibhasan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devshakibhasan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devshakibhasan/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devshakibhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/devshakibhasan" height="30" width="40"  /></a>
 </p>
 
 </p>
